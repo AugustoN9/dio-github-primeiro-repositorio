@@ -1,0 +1,10 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(240deg, black, white);
+    background-repeat: no-repeat;
+}
